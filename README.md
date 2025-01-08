@@ -17,10 +17,18 @@ This course offers a comprehensive introduction to advanced data analysis and ma
   - Pandas
   - sklearn
   - Keras
-- **Types of Data:**
-  - Text: regex, web scraping
-  - Time Series: Markov chains, forecasting, seasonal trend analysis, mean-variance optimization, LSTM's
-  - Images: Transfer learning pretrained CNN's w/ Keras
+- **Unstructured text processing:**
+  - Regex
+  - Web scraping
+- **Time Series data:**
+  - Markov chains
+  - Forecasting
+  - Seasonal trend analysis
+  - Mean-variance optimization
+  - LSTM's
+- **Image classification:**
+  - CNN's
+  - Transfer learning pretrained models
 
 ### Note on Datasets
 Since the datasets are too large for Github file limits, please find the datasets in our Blackboard course shell.
