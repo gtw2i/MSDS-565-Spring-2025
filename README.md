@@ -11,7 +11,8 @@ This course offers a comprehensive introduction to advanced data analysis and ma
 ## Key Areas Covered:
 - **Fundamentals:** Python environments (pip, conda), Github, CRISP-DM methodology
 - **EDA and ML Review:** Using Pandas and sklearn
-- **Types of Data:** Text, Time Series, Images
+- **Types of Data:**
+  - Text, Time Series, Images
 - **Deep Learning:** Keras, transfer learning
 
 ### Note on Datasets
